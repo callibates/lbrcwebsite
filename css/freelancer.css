@@ -10797,7 +10797,7 @@ a.text-dark:hover, a.text-dark:focus {
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   opacity: 0;
-  background-color: rgba(26, 188, 156, 0.9);
+  background-color: #005d7ca6;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -10806,6 +10806,7 @@ a.text-dark:hover, a.text-dark:focus {
 
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .portfolio-modal .portfolio-modal-title {
