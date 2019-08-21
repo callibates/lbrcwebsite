@@ -1,0 +1,7 @@
+LBRC COLOURS:
+
+Dark Blue: #1D394F
+Grey: 9EB3C2
+Mid Blue: 005E7C
+Light Blue: 00ACF5
+Green: 6CCF3D
