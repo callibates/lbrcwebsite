@@ -161,7 +161,7 @@ sup {
 }
 
 a {
-  color: #1abc9c;
+  color: #1a45bc;
   text-decoration: none;
   background-color: transparent;
 }
@@ -6916,7 +6916,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #1abc9c !important;
+  background-color: #1a40bc !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10707,9 +10707,10 @@ a.text-dark:hover, a.text-dark:focus {
   #mainNav .navbar-nav {
     margin-top: 0;
   }
+
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #fff;
-    background: #1abc9c;
+    background: #1a1dbc;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #fff;
